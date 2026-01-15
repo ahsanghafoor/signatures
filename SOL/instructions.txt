@@ -1,0 +1,66 @@
+========================================================================
+             EMAIL SIGNATURE INSTALLATION GUIDE
+========================================================================
+
+Thank you for your order! Your professional email signature is ready.
+Please follow these simple steps to install it.
+
+------------------------------------------------------------------------
+STEP 1: PREVIEWING THE SIGNATURE
+------------------------------------------------------------------------
+1. Open the "preview.html" file in any web browser (Chrome, Safari, Edge, etc.).
+
+------------------------------------------------------------------------
+STEP 2: COPYING THE SIGNATURE
+------------------------------------------------------------------------
+1. Once the signature is visible in your browser:
+   - Click anywhere on the signature.
+   - Press Ctrl+A (Windows) or Cmd+A (Mac) to select all.
+   - Press Ctrl+C (Windows) or Cmd+C (Mac) to copy.
+
+------------------------------------------------------------------------
+STEP 3: ADDING TO YOUR EMAIL CLIENT
+------------------------------------------------------------------------
+
+GMAIL:
+1. Open Gmail and click the Gear Icon (Settings) -> "See all settings".
+2. Scroll down to the "Signature" section.
+3. Click "Create new", name it, and paste (Ctrl+V or Cmd+V) into the box.
+4. IMPORTANT: Set the "Signature defaults" to your new signature.
+5. Scroll to the bottom and click "Save Changes".
+
+OUTLOOK (WEB):
+1. Click the Gear Icon -> "View all Outlook settings".
+2. Go to "Mail" -> "Compose and reply".
+3. Under "Email signature", paste (Ctrl+V or Cmd+V) your signature.
+4. Click "Save".
+
+OUTLOOK (DESKTOP):
+1. Go to "File" -> "Options" -> "Mail".
+2. Click "Signatures...".
+3. Click "New", name it, and paste (Ctrl+V or Cmd+V) into the Edit signature box.
+4. Click "OK".
+
+APPLE MAIL:
+1. Go to "Mail" -> "Settings" (or Preferences) -> "Signatures".
+2. Choose the account, click the "+" button.
+3. UNCHECK "Always match my default message font".
+4. Paste (Cmd+V) your signature into the box.
+
+------------------------------------------------------------------------
+TIPS FOR BEST RESULTS
+------------------------------------------------------------------------
+- Desktop Required: For the initial setup, please use a desktop computer.
+- Formatting: If the spacing looks strange after pasting, try "Paste and Match Style" or "Keep Source Formatting" options if available.
+- Images: All images are hosted securely and will load automatically.
+
+------------------------------------------------------------------------
+COMPATIBILITY
+------------------------------------------------------------------------
+Your signature has been tested and is compatible with:
+✓ Gmail, Google Workspace
+✓ Outlook (Web & Desktop)
+✓ Apple Mail
+✓ Thunderbird
+✓ iPhone/iPad (by copying/pasting in Mail settings)
+========================================================================
