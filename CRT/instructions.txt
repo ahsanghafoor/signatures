@@ -52,5 +52,6 @@ ADDITIONAL NOTES
 ------------------------------------------------------------------------
 - All images are hosted online, so they will display correctly.
 - The signature is optimized for all modern email clients.
+- If you need to make any changes, please contact support.
 
 ========================================================================
