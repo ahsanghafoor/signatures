@@ -48,11 +48,6 @@ APPLE MAIL:
 4. Paste (Cmd+V) your signature into the box.
 
 ------------------------------------------------------------------------
-IMPORTANT NOTE:
-------------------------------------------------------------------------
-PLEASE DO NOT CHANGE THE SIGNATURE MANUALLY, IT CAN DISTURB THE ALIGNMENT OF EMAIL SIGNATURE
-
-------------------------------------------------------------------------
 ADDITIONAL NOTES
 ------------------------------------------------------------------------
 - All images are hosted online, so they will display correctly.
